@@ -1,0 +1,22 @@
+button {
+    margin: 0;padding: 0;
+    height:20vh;width: 20vh;
+    background-color: azure;
+    border: 0.4vh solid blue ;
+    border-radius: 2vh;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.sample {
+    margin-left: 30vw;
+    width: 50vw;    
+    height: 30vh; 
+    background-image: url("https://www.cswonders.com/img/tic_tac_toe_name.gif");
+    background-size: 80vh;
+    background-repeat: no-repeat;
+}
+#t1{
+    margin: auto;
+    margin-top: 20vh;
+}
